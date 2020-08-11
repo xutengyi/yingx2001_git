@@ -11,6 +11,8 @@ public class Yingx2001GitApplicationTests {
 
     @Test
     public void contextLoads() {
+        int a=10;
+        int b=20;
     }
 
 }
