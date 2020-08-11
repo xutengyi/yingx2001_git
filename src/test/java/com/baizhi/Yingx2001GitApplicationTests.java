@@ -15,4 +15,7 @@ public class Yingx2001GitApplicationTests {
         int b=20;
     }
 
+    public static void main(String[] args) {
+        System.out.println ("============");
+    }
 }
